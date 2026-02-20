@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BUSINESS SOLUTION | Tax Consultant in Alwar</title>
+<meta name="description" content="Tax Consultant in Alwar providing GST Registration, Income Tax Return Filing, TDS, Accounting & RIPS Subsidy Consultancy.">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="container nav">
+    <h2>BUSINESS SOLUTION</h2>
+    <a href="tel:08890750375" class="btn-call">Call Now</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>Alwar’s Trusted Tax & GST Experts</h1>
+    <p>5-Star Rated Consultancy Helping Individuals & Businesses Stay 100% Compliant</p>
+    <div class="rating">⭐ 5.0 Rating | 18 Reviews</div>
+    <div class="cta">
+      <a href="tel:08890750375" class="btn">📞 Call Now</a>
+      <a href="https://wa.me/918890750375" class="btn-outline">💬 Get Free Consultation</a>
+    </div>
+  </div>
+</section>
+
+<section class="services container">
+  <h2>Our Services</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Income Tax Return Filing</h3>
+      <p>Accurate & on-time ITR filing for salaried & business clients.</p>
+    </div>
+    <div class="card">
+      <h3>GST Registration & Returns</h3>
+      <p>Complete GST compliance with timely return filing.</p>
+    </div>
+    <div class="card">
+      <h3>TDS Returns</h3>
+      <p>Penalty-free TDS return filing & documentation support.</p>
+    </div>
+    <div class="card">
+      <h3>Accounting & Bookkeeping</h3>
+      <p>Professional accounting solutions for MSMEs & traders.</p>
+    </div>
+    <div class="card">
+      <h3>Auditing Services</h3>
+      <p>Tax audit & GST audit with complete compliance focus.</p>
+    </div>
+    <div class="card">
+      <h3>RIPS Subsidy Consultancy</h3>
+      <p>Complete guidance for Rajasthan Investment Promotion Scheme.</p>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <h2>Avoid Tax Penalties. File Correctly. File On Time.</h2>
+  <a href="tel:08890750375" class="btn">Call 088907 50375</a>
+</section>
+
+<section class="contact container">
+  <h2>Contact Us</h2>
+  <p>F-5, First Floor, Riddhi-Siddhi Complex, Scheme No 1, Alwar</p>
+  <form>
+    <input type="text" placeholder="Your Name" required>
+    <input type="tel" placeholder="Phone Number" required>
+    <textarea placeholder="Your Message"></textarea>
+    <button type="submit">Send Inquiry</button>
+  </form>
+</section>
+
+<footer>
+  <p>© 2025 BUSINESS SOLUTION | Tax Consultant in Alwar</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
